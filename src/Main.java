@@ -16,15 +16,22 @@ public class Main {
 
     private static void task1() {
         System.out.println("задача 1");
-    }
+        var dog = 8.0;
+        System.out.println("dog: " + dog);
 
+    }
     private static void task2() {
         System.out.println("задача 2");
-    }
+        var cat = 3.6F;
+        System.out.println("cat: " + cat);
 
+    }
     private static void task3() {
         System.out.println("задача 3");
+        var paper = 763789;
+        System.out.println("paper: " + paper);
     }
+
 
     private static void task4() {
         System.out.println("задача 4");
@@ -49,5 +56,3 @@ public class Main {
 
 
 }
-
-    }
